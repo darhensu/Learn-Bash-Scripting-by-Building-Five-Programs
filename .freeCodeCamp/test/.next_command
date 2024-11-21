@@ -20,3 +20,5 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh
+git status
+git add .
