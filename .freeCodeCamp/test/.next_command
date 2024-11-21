@@ -1,3 +1,5 @@
 ./fortune.sh
 help [[ expression ]]
 [[ hello == hello ]]
+__vsc_prompt_cmd_original
+[[ hello == world ]]
