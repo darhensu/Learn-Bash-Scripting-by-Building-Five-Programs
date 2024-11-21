@@ -14,3 +14,6 @@ __vsc_prompt_cmd_original
 [[ VAR == "hellow world" ]]
 VAR="hello world"
 echo $VAR
+[[ VAR == "hellow world" ]]
+[[ $VAR == "hellow world" ]]
+[[ $VAR == "hello world" ]]
