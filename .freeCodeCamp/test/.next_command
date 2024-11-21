@@ -17,3 +17,4 @@ echo $VAR
 [[ VAR == "hellow world" ]]
 [[ $VAR == "hellow world" ]]
 [[ $VAR == "hello world" ]]
+[[ $VAR =~ \?$ ]]
